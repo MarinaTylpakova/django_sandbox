@@ -1,1 +1,1 @@
-# django_sandbox
+Sandbox for django
